@@ -16,13 +16,3 @@
 ![0 0_}Y(6FS6NE5WZ64T2L L](https://github.com/Ikaros-521/voice_talk_chatgpt/assets/40910637/1f8620a6-5575-4694-83a2-556f118da6df)
 
 ![image](https://github.com/Ikaros-521/voice_talk_chatgpt/assets/40910637/e3a72719-863f-4622-a102-5afd643f5c40)
-
-
-
-# 更新日志
-- 2024-02-18
-    - tts支持走代理合成
-    - 修复tts配置不能配置的bug
-    - 新增公网共享和配置本地保存开关，方便共用
-- 2024-02-07
-    - 初版demo发布
